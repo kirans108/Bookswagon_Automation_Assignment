@@ -1,0 +1,1 @@
+{"uuid":"7716a97d-366f-4eab-80db-7c0901f2604d","name":"com.test.FictionBooksTest.init","children":["c22a3c43-9a16-4a47-ad05-02b1a6bd51b4"],"description":"","befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1695026163261,"stop":1695026173952}],"afters":[],"start":1695026163261,"stop":1695026173953}

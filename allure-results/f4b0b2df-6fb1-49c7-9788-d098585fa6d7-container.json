@@ -1,0 +1,1 @@
+{"uuid":"f4b0b2df-6fb1-49c7-9788-d098585fa6d7","name":"com.test.TodaysDealTest.init","children":["4147e60f-5f1c-4aeb-9910-34e9350f9d63"],"description":"","befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694961983631,"stop":1694961996029}],"afters":[],"start":1694961983630,"stop":1694961996031}

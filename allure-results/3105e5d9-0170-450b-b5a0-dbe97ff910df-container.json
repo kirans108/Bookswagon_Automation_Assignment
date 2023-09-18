@@ -1,0 +1,1 @@
+{"uuid":"3105e5d9-0170-450b-b5a0-dbe97ff910df","name":"com.test.BookTest.init","children":["41e6d5f8-2edc-47b2-b8bb-97b75775d7cd"],"description":"","befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694971651971,"stop":1694971670800}],"afters":[],"start":1694971651969,"stop":1694971670801}

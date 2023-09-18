@@ -1,0 +1,1 @@
+{"uuid":"c52647fa-a40a-4cfe-9dab-9a2c1730f77f","name":"com.test.AwardWinnersTest.init","children":["12fb5ab3-07bc-486e-94db-7078c3edbf6b"],"description":"","befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694956551940,"stop":1694956567521}],"afters":[],"start":1694956551939,"stop":1694956567522}

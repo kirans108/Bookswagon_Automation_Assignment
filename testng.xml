@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/kiran/IdeaProjects/Bookswagon_Automation">
+        <classes>
+            <class name="com.test.AwardWinnersTest">
+                <methods>
+                    <include name="setAwardWinnersVerifyTest"/>
+                </methods>
+            </class>
+            <class name="com.test.BestSellerTest">
+                <methods>
+                    <include name="setBestSellersVerify"/>
+                </methods>
+            </class>
+            <class name="com.test.BookTest">
+                <methods>
+                    <include name="setBookVerify"/>
+                </methods>
+            </class>
+            <class name="com.test.BoxSetTest">
+                <methods>
+                    <include name="boxSetSectionVerify"/>
+                </methods>
+            </class>
+            <class name="com.test.CompanyTest">
+                <methods>
+                    <include name="companySectionVerify"/>
+                    <include name="policiesVerify"/>
+                    <include name="helpVerify"/>
+                    <include name="socialMediaIntegration"/>
+                    <include name="miscVerify"/>
+                </methods>
+            </class>
+            <class name="com.test.FeaturedAuthorTest">
+                <methods>
+                    <include name="setFeaturedAuthorsVerifyTest"/>
+                </methods>
+            </class>
+            <class name="com.test.FictionBooksTest">
+                <methods>
+                    <include name="setFictionBooksVerify"/>
+                </methods>
+            </class>
+            <class name="com.test.LogInTest">
+                <methods>
+                    <include name="successfulLogIn"/>
+                </methods>
+            </class>
+            <class name="com.test.NewArrivalsTest">
+                <methods>
+                    <include name="newArrivalsTest"/>
+                </methods>
+            </class>
+            <class name="com.test.RequestABookTest">
+                <methods>
+                    <include name="setRequestABookVerify"/>
+                </methods>
+            </class>
+            <class name="com.test.SearchTest">
+                <methods>
+                    <include name="setSearchBar"/>
+                </methods>
+            </class>
+            <class name="com.test.SignUpTest">
+                <methods>
+                    <include name="successfulRegistration"/>
+                </methods>
+            </class>
+            <class name="com.test.TodaysDealTest">
+                <methods>
+                    <include name="todaysDealVerify"/>
+                </methods>
+            </class>
+            <class name="com.test.YourAccountTest">
+                <methods>
+                    <include name="setYourAccountVerify"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

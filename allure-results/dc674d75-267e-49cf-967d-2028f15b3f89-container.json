@@ -1,0 +1,1 @@
+{"uuid":"dc674d75-267e-49cf-967d-2028f15b3f89","name":"com.test.BoxSetTest.init","children":["5c2e065b-a6d6-4b59-b02a-6affaa651f0d"],"description":"","befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694951404596,"stop":1694951420170}],"afters":[],"start":1694951404594,"stop":1694951420170}
